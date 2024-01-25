@@ -665,7 +665,7 @@ footer{
 @media screen and (max-width: 1000px){
 	.sec-1-cat{
 		padding: 0;
-		height: 70vh;
+		height: fit-content;
 		padding: auto 0;
 	}
 	.desk-pic_1,.desk-pic_2,.desk-pic_3{
